@@ -25,19 +25,19 @@
 
 ## 🌐 Live Demo
 
-Try the app live: **[Language Detector App](https://your-streamlit-app-link.streamlit.app)**
+🔗 Try the app live: https://language-detector-007.streamlit.app/
 
 ## 🗂 Folder Structure
 
 ```
 language-detector/
 │
-├── app.py                     # Streamlit application
-├── language_detection.csv      # Dataset used for training
-├── language_detection.ipynb    # Jupyter notebook for model training
-├── language_detector_pipeline.joblib  # Saved trained pipeline
-├── requirements.txt           # Dependencies
-├── assets/                     # App preview images
+├── app.py                               # Streamlit application
+├── language_detection.csv               # Dataset used for training
+├── language_detection.ipynb             # Jupyter notebook for model training
+├── language_detector_pipeline.joblib    # Saved trained pipeline
+├── requirements.txt                     # Dependencies
+├── assets/                              # App preview images
 │   ├── preview1.png
 │   └── preview2.png
 ```
