@@ -11,18 +11,6 @@
 * Clean and interactive interface with info on supported languages.
 * Handles **numbers, special characters**, and multiline text.
 
-## 📱 App Preview
-
-<div align="center">
-  <img src="assets/preview1.png" alt="Language Detector Interface" width="600px">
-  <p><em>Modern and intuitive interface for language detection</em></p>
-</div>
-
-<div align="center">
-  <img src="assets/preview2.png" alt="Detection Result" width="600px">
-  <p><em>Real-time language detection with highlighted results</em></p>
-</div>
-
 ## 🌐 Live Demo
 
 🔗 Try the app live: https://language-detector-007.streamlit.app/
@@ -41,6 +29,17 @@ language-detector/
 │   ├── preview1.png
 │   └── preview2.png
 ```
+## 📱 App Preview
+
+<div align="center">
+  <img src="assets/preview1.png" alt="Language Detector Interface" width="600px">
+  <p><em>Modern and intuitive interface for language detection</em></p>
+</div>
+
+<div align="center">
+  <img src="assets/preview2.png" alt="Detection Result" width="600px">
+  <p><em>Real-time language detection with highlighted results</em></p>
+</div>
 
 ## 💻 Installation
 
